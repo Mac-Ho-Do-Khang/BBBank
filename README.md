@@ -1,6 +1,6 @@
-# README: Network Design and Simulation Project
+# Network Design and Simulation for a Critical Large Company
 
-This project, "Network Design and Simulation for a Critical Large Company," was completed independently as part of the Computer Networks course (CO3094). The objective was to design, simulate, and evaluate a computer network for a large company using Cisco Packet Tracer (CPT). The design includes a Headquarters in Ho Chi Minh City and two branch offices in Da Nang and Ha Noi.
+This project was completed independently as part of the **Computer Networks** course (CO3094). The objective was to design, simulate, and evaluate a computer network for a large company using Cisco Packet Tracer (CPT). The design includes a Headquarters in Ho Chi Minh City and two branch offices in Da Nang and Ha Noi.
 
 This project is for learning purposes only and was completed solely by me. The included files demonstrate the application of networking principles and practical use of Cisco Packet Tracer.
 
